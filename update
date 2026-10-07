@@ -98,7 +98,7 @@ pcall(function() startupGui:Destroy() end)
 -- ============ MAIN SCRIPT ============
 local SilentAimSettings = {
     Enabled = false,
-    ClassName = "Universal Silent Aim - Averiias, Stefanuk12, xaxa",
+    ClassName = "Universal Silent Aim - Spent",
     ToggleKey = "RightAlt",
     TeamCheck = false,
     VisibleCheck = false,
